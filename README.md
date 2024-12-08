@@ -6,4 +6,8 @@ En esta materia estamos aprendiendo las bases teóricas de la ciberseguridad, de
 
 ### Álgebra 
 Nombre del docenete: Hugo Tlahuext Aca
-En este materia estamos aprendiendo condeptos básicos de programación en python, de igual manera estamos viendo métodos de cifrado por sustitución con vectores y matrices. 
+En este materia estamos aprendiendo condeptos básicos de programación en python, de igual manera estamos viendo métodos de cifrado por sustitución con vectores y matrices.
+
+### Fundamendamentos de computadores 
+Nombre del docente: Rebeca Rodríguez Pantoja
+En esta materia estamos viendo concepto desde redes, hasta la historia misma de la computación.  
