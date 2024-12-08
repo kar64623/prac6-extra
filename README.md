@@ -22,4 +22,4 @@ En esta materia estamos viendo el control de versiones y el flujo de trabajo de 
 
 Creando la versión 1.0.0 de este repositorio. 
 
-
+Creando la versión 1.1.0 de este repositorio
